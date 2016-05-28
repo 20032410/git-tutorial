@@ -14,7 +14,11 @@
 
 -feature-A
 # feature-A
-=======
+
 -fix-B
 # fix-B
 
+-fix-C
+# fix-C
+- -fix-C
++ -fix-C
